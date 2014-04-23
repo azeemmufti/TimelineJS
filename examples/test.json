@@ -1,0 +1,157 @@
+{
+    "timeline":
+    {
+        "headline":"Test Timeline",
+        "type":"default",
+		"text":"Check out this timeline!",
+        "asset": {
+			"media":"http://wallpaperskd.com/wp-content/uploads/2012/02/underwater-nature-ocean-sea.jpg",
+			"credit":"A photographer",
+			"caption":"Check out this cool pic of the ocean"
+		},
+		"startDate":"2012,1,26",
+        "date": [
+
+          	{
+				"startDate":"2011,12,10",
+				"endDate":"2011,12,11",
+				"headline":"Cool Picture of the Ocean",
+				"text":"<p>Body text goes here, some HTML is OK</p>",
+				"tag":"TAG1",
+				"asset": {
+					"media":"http://images.nationalgeographic.com/wpf/media-live/photos/000/138/overrides/save-the-ocean-tips_13821_600x450.jpg",
+					"thumbnail":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv29VKeCJ1aher2g1VHn4SCVse78sIkvAcWGkQYQ653akqnbCqDg",
+					"credit":"Credit",
+					"caption":"Check it out"
+				}
+			},
+
+            {
+				"startDate":"2011,12,14",
+				"endDate":"2011,12,15",
+				"headline":"Cool Picture of the Ocean2",
+				"text":"<p>Body text!!!</p>",
+				"tag":"TAG2",
+				"asset": {
+					"media":"http://upload.wikimedia.org/wikipedia/commons/d/d7/Ocean_park_wiki.jpg",
+					"credit":"Credit",
+					"caption":"Check it out"
+				}
+			},
+
+            {
+                "startDate":"2011,12,17",
+				"endDate":"2012,12,19",
+                "headline":"Sh*t Politicians Say",
+				"tag":"TAG1",
+                "text":"<p>In true political fashion, his character rattles off common jargon heard from people running for office.</p>",
+                "asset":
+                {
+                    "media":"http://youtu.be/u4XpeU9erbg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2012,1,26",
+                "headline":"Sh*t Chicagoans Say",
+                "tag":"TAG3",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://youtu.be/Ofy5gNkKGOo",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2012,2,4",
+                "headline":"Sh*t Silicon Valley Says",
+                "text":"",
+                "tag":"TAG2",
+                "asset":
+                {
+                    "media":"http://youtu.be/BR8zFANeBGQ",
+                    "credit":"",
+                    "caption":"written, filmed, and edited by Kate Imbach & Tom Conrad"
+                }
+            },
+			{
+                "startDate":"2012,3,23",
+                "headline":"Sh*t Graphic Designers Say",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://youtu.be/KsT3QTmsN5Q",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2012,3,1",
+                "headline":"Sh*t Wookiees Say",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://youtu.be/vJpBCzzcSgA",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+			{
+                "startDate":"2012,1,1",
+                "headline":"Sh*t Social Media Pros Say",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://youtu.be/eRQe-BT9g_U",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2012,1,30",
+                "headline":"Sh*t Old People Say About Computers",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://youtu.be/HRmc5uuoUzA",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2012,5,5",
+                "headline":"Sh*t College Freshmen Say",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://youtu.be/rwozXzo0MZk",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2012,6,1",
+                "headline":"Sh*t Web Designers Say",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://youtu.be/MEOb_meSHhQ",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ],
+        "era": [
+			{
+				"startDate":"2011,12,1",
+				"endDate":"2012,1,10",
+				"headline":"THIS IS AN ERA",
+				"tag":"TAG1"
+			}
+
+		]
+    }
+}

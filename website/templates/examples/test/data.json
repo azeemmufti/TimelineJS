@@ -58,17 +58,6 @@
                 }
             },
             {
-                "startDate":"1868",
-                "headline":"The Typewriter",
-                "text":"Again, not a computer but an important step forward in user interfaces. Invented by Christopher Sholes, An American engineer, the typewriter was layed out in the familiar QWERTY style.",
-                "asset":
-                {
-                    "media":"http://upload.wikimedia.org/wikipedia/commons/9/9a/Sholes_typewriter.jpg",
-                    "credit":"By George Iles, via Wikimedia Commons",
-                    "caption":"A prototype of the typewriter with the QWERTY layout clearly visible."
-                }
-            },
-            {
                 "startDate":"1833",
                 "headline":"The Analytical Engine",
                 "text":"Charles Babbage designed but was never able to produce a working model but it is significant in that it relied upon punched cards for data and programs and would employ a language similar to modern assembly language complete with loops and conditional branching (for the nerds out there).",
@@ -77,6 +66,17 @@
                     "media":"http://upload.wikimedia.org/wikipedia/commons/a/a4/Analytical_Engine_%282290032530%29.jpg",
                     "credit":"By <a href='http://commons.wikimedia.org/wiki/File%3AAnalytical_Engine_(2290032530).jpg'>Marcin Wichary</a> via Wikimedia Commons",
                     "caption":"This modern model of the Analytical Engine is housed at the Science Museum in London."
+                }
+            },
+            {
+                "startDate":"1868",
+                "headline":"The Typewriter",
+                "text":"Again, not a computer but an important step forward in user interfaces. Invented by Christopher Sholes, An American engineer, the typewriter was layed out in the familiar QWERTY style.",
+                "asset":
+                {
+                    "media":"http://upload.wikimedia.org/wikipedia/commons/9/9a/Sholes_typewriter.jpg",
+                    "credit":"By George Iles, via Wikimedia Commons",
+                    "caption":"A prototype of the typewriter with the QWERTY layout clearly visible."
                 }
             },
             {
